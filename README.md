@@ -13,7 +13,7 @@ viewed/printed as it was written by one person.
 Features
 --------
 
-Among the fearures provided by KWStyle:
+Among the features provided by KWStyle:
 
 - Several Indentation checking
 - Copyright Header correctness
